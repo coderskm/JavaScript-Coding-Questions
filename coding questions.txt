@@ -1,0 +1,23 @@
+1. Area of circle.
+2. ASCII value of entered character.
+3. entered character is alphabet or not.
+4. check if numbers are pythagorean triplets.
+5. check whether given number is power of 2.
+6. check whether triangle is equilateral, isosceles or scalene.
+7. factorial of number.
+8. factors of number.
+9. find frequency of digits appearing in number.
+10. greatest of 3 numbers.
+11. greatest of 2 numbers.
+12. leap year or not.
+13. given number is even or not.
+14. maximum number of handshakes between given number of people.
+15. number of digits in integer.
+16. given number is positive or negative.
+17. swap two numbers without third variable.
+18. sum of numbers in given range.
+19. sum of first 'n' natural numbers.
+20. sum of digits of given number.
+21. reverse the number.
+22. prime number or not.
+23. palindrome number or not.
