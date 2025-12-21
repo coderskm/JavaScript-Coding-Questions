@@ -21,3 +21,11 @@
 21. reverse the number.
 22. prime number or not.
 23. palindrome number or not.
+24. copy elements of one array into another.
+25. largest gap between array elements.
+26. second largest element in given array.
+27. second smallest element in given array.
+28. reverse array without using extra array.
+29. Maximum sum subarray (Kadane's Algorithm).
+30. delete element from array if its multiple of 5.
+
