@@ -28,4 +28,31 @@
 28. reverse array without using extra array.
 29. Maximum sum subarray (Kadane's Algorithm).
 30. delete element from array if its multiple of 5.
-
+31. absolute difference between first and last array elements.
+32. array balanced or not.
+33. array contains square of another array elements in same frequency.
+34. array is palindrome or not.
+35. count array elements that divide sum of all other array elements.
+36. count pairs in array that holds 'arr[i]+arr[j] = i+j'.
+37. check whether array can be sorted with one swap or not. --
+38. delete array element at given index 'k'.
+39. display product of array elements.
+40. distance between two closest occurrences of smallest element in array.
+41. find hidden number of array.
+42. find square of each array element and sort it.
+43. find median of two sorted array. --
+44. find target element's index after array is sorted.
+45. frequency of all characters in array.
+46. total inversions in array.
+47. Make even number odd in given array.
+48. maximum sum of pair of elements in given array.
+49. merge two sorted array. --
+50. replace every element of array with greatest element on its left side. --
+51. replace every element with previous array element.
+52. replace every element of array with its frequency. --
+53. rotate array to right side. --
+54. smallest element in array greater than or equal to 'k'.
+55. sort array having elements 0 and 1 only. --
+56. sort array having elements 0, 1 and 2 only. --
+57. Binary Search
+58. Linear Search
