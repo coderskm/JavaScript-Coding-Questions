@@ -57,3 +57,22 @@
 57. Binary Search.
 58. Linear Search.
 59. rotate array to left side based on 'k' value.
+60. find if array has an element whose value is half of sum of array.
+61. find all prime numbers in array (Sieve Of Eratosthenes). 
+62. check whether two strings are anagram of each other.
+63. convert string to number.
+64. frequency of all characters in given string.
+65. read, append and then print the strings.
+66. swap two strings without using third variable.
+67. reverse a string.
+68. find length of string without using inbuilt method.
+69. string is isogram or not.
+70. given two strings are rotation of each other.
+71. string is pangram or not.
+72. find a string in another string.
+73. check whether string is suffix of another.
+74. bubble sort.
+75. selection sort.
+76. insertion sort.
+77. quick sort.
+78. merge sort.
