@@ -71,8 +71,17 @@
 71. string is pangram or not.
 72. find a string in another string.
 73. check whether string is suffix of another.
-74. bubble sort.
-75. selection sort.
-76. insertion sort.
-77. quick sort.
-78. merge sort.
+74. armstrong number or not.
+75. display AP series.
+76. display GP series.
+77. display fibonacci series.
+78. reverse copy array into another array.
+79. addition of 2 fractions.
+80. area of circle.
+81. find roots of quadratic equation.
+82. sieve of eratosthenes implementation.
+83. addition of 2 matrix.
+84. subtraction of 2 matrix.
+85. multiplication of 2 matrix.
+86. traverse matrix in spiral format.
+
