@@ -80,8 +80,8 @@
 80. area of circle.
 81. find roots of quadratic equation.
 82. sieve of eratosthenes implementation.
-83. addition of 2 matrix.
-84. subtraction of 2 matrix.
-85. multiplication of 2 matrix.
+83. addition of 2 matrices.
+84. subtraction of 2 matrices.
+85. multiplication of 2 matrices.
 86. traverse matrix in spiral format.
 
