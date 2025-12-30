@@ -85,5 +85,8 @@
 85. multiplication of 2 matrices.
 86. traverse matrix in spiral format.
 87. bubble sort implementation.
-
+88. selection sort implementation.
+89. insertion sort implementation.
+90. merge sort implementation.
+91. quick sort implementation.
 
