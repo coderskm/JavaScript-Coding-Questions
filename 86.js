@@ -3,7 +3,7 @@ function spiralMatrix(mat) {
     console.log(`given array is empty`);
   }
 
-  console.log(`given spiral matrix :- ${JSON.stringify(mat)}`);
+  console.log(`given matrix :- ${JSON.stringify(mat)}`);
   let top = 0,
     left = 0,
     bottom = mat.length - 1,
