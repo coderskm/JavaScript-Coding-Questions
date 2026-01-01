@@ -89,4 +89,5 @@
 89. insertion sort implementation.
 90. merge sort implementation.
 91. quick sort implementation.
-
+92. stack implementation.
+93. queue implementation.
