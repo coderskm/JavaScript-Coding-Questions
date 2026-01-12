@@ -91,3 +91,10 @@
 91. quick sort implementation.
 92. stack implementation.
 93. queue implementation.
+94. Remove Duplicates from Sorted Array.
+95. string is palindrome or not.
+96. Hamming Distance.
+97. Find All Numbers Disappeared in an Array.
+98. Two Sum.
+99. Best Time to Buy and Sell Stock.
+100. Container With Most Water.
