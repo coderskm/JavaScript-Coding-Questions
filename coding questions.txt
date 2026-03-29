@@ -99,3 +99,5 @@
 99. Best Time to Buy and Sell Stock. (121)
 100. Container With Most Water. (11)
 101. Rotate String. (796)
+102. Longest substring with at most K distinct characters. (340)
+103. Longest Substring without Repeating Characters. (3)
